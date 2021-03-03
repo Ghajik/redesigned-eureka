@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Countach - Tritinia Scans</title>
+        <link>https://tritinia.com/</link>
+        <description>The latest releases of Countach</description>
+        <generator>Feeder 4.0.8(5248); Mac OS X Version 11.2.1 (Build 20D74) https://reinventedsoftware.com/feeder/</generator>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Wed, 03 Mar 2021 15:15:53 +0400</pubDate>
+        <lastBuildDate>Wed, 03 Mar 2021 15:15:53 +0400</lastBuildDate>
+        <atom:link href="http://rss.tritinia.com/countach.xml/countach.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Countach - Volume 5, Chapter 40</title>
+            <link>https://tritinia.com/manga/countach/vol-5-ch-40-encounter-with-legend-once-again-2/</link>
+            <description><![CDATA[Group: Tritinia Scans - Uploader: Ghajik - Language: English]]></description>
+            <pubDate>Mon, 01 Mar 2021 00:01:05 +0400</pubDate>
+            <guid isPermaLink="true">https://tritinia.com/manga/countach/vol-5-ch-40-encounter-with-legend-once-again-2/</guid>
+        </item>
+        <item>
+            <title>Countach - Volume 5, Chapter 39</title>
+            <link>https://tritinia.com/manga/countach/vol-5-ch-39-encounter-with-legend-once-again/</link>
+            <description><![CDATA[Group: Tritinia Scans - Uploader: Ghajik - Language: English]]></description>
+            <pubDate>Tue, 26 Jan 2021 21:03:45 +0400</pubDate>
+            <guid isPermaLink="true">https://tritinia.com/manga/countach/vol-5-ch-39-encounter-with-legend-once-again/</guid>
+        </item>
+        <item>
+            <title>Countach - Volume 5, Chapter 38</title>
+            <link>https://tritinia.com/manga/countach/vol-5-ch-38-i-might-be-in-love_/</link>
+            <description><![CDATA[Group: Tritinia Scans - Uploader: Ghajik - Language: English]]></description>
+            <pubDate>Mon, 14 Sep 2020 17:34:11 +0400</pubDate>
+            <guid isPermaLink="true">https://tritinia.com/manga/countach/vol-5-ch-38-i-might-be-in-love_/</guid>
+        </item>
+        <item>
+            <title>Countach - Volume 5, Chapter 37</title>
+            <link>https://tritinia.com/manga/countach/vol-5-ch-37-the-bbs-pursuit/</link>
+            <description><![CDATA[Group: Tritinia Scans - Uploader: Ghajik - Language: English]]></description>
+            <pubDate>Thu, 30 Jul 2020 18:10:31 +0400</pubDate>
+            <guid isPermaLink="true">https://tritinia.com/manga/countach/vol-5-ch-37-the-bbs-pursuit/</guid>
+        </item>
+        <item>
+            <title>Countach - Volume 5, Chapter 36</title>
+            <link>https://tritinia.com/manga/countach/vol-5-ch-36-prancing-horse-vs-bullfighter-_4_/</link>
+            <description><![CDATA[Group: Tritinia Scans - Uploader: Ghajik - Language: English]]></description>
+            <pubDate>Fri, 17 Jul 2020 01:02:06 +0400</pubDate>
+            <guid isPermaLink="true">https://tritinia.com/manga/countach/vol-5-ch-36-prancing-horse-vs-bullfighter-_4_/</guid>
+        </item>
+    </channel>
+</rss>
