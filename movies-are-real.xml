@@ -7,9 +7,21 @@
         <generator>Feeder 4.0.8(5248); Mac OS X Version 11.2.1 (Build 20D74) https://reinventedsoftware.com/feeder/</generator>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <pubDate>Mon, 08 Mar 2021 23:10:31 +0400</pubDate>
-        <lastBuildDate>Mon, 08 Mar 2021 23:10:31 +0400</lastBuildDate>
+        <pubDate>Tue, 09 Mar 2021 23:12:03 +0400</pubDate>
+        <lastBuildDate>Tue, 09 Mar 2021 23:12:03 +0400</lastBuildDate>
         <atom:link href="https://rss.tritinia.com/movies-are-real.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Movies Are Real - Chapter 11</title>
+            <link>https://tritinia.com/manga/movies-are-real/ch-11/</link>
+            <pubDate>Tue, 09 Mar 2021 23:11:59 +0400</pubDate>
+            <guid isPermaLink="false">7CCE599B-F7C7-4AF1-9C03-39758BD26F40</guid>
+        </item>
+        <item>
+            <title>Movies Are Real - Chapter 10</title>
+            <link>https://tritinia.com/manga/movies-are-real/ch-10/</link>
+            <pubDate>Tue, 09 Mar 2021 23:11:48 +0400</pubDate>
+            <guid isPermaLink="false">05A32E35-CA5F-46C8-BBD4-C4BAF919117A</guid>
+        </item>
         <item>
             <title>Movies Are Real - Chapter 9</title>
             <link>https://tritinia.com/manga/movies-are-real/ch-9/</link>
