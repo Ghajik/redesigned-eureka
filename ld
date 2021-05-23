@@ -12,6 +12,6 @@
         "Trtinia Scans": "/proxy/api/imgur/chapter/siVR85z/"
       },
       "last_updated": "1621761077"
-    },
+    }
   }
 }
