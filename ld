@@ -9,7 +9,7 @@
       "title": "The Start of the Stampede",
       "volume": "7",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/siVR85z/"
+        "Trtinia Scans": "/proxy/api/imgur/chapter/siVR85z/"
       },
       "last_updated": "1621761077"
     },
